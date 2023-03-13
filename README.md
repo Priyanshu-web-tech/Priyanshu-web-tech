@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanshu-web-tech
-- 👀 I’m interested in Web Development,Data Science and Competitive Programing.
+- 👀 I’m interested in Web Development,Data Science.
 - 🌱 I’m currently learning Web Development and Data Structures in C++.
 - 📫 How to reach me priyanshusharma6666@gmail.com
 
