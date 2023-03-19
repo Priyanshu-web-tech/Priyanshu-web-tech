@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 
 
 <img align="right" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" />
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-web-tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-web-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-web-tech" alt="priyanshu-web-tech" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/priyans72532451" target="blank"><img src="https://img.shields.io/twitter/follow/priyans72532451?logo=twitter&style=for-the-badge" alt="priyans72532451" /></a> </p>
 
