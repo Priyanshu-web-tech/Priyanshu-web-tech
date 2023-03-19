@@ -1,8 +1,10 @@
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Priyanshu-web-tech.io)
+
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A Passionate Developer</h3>
 
 
-<img align="right" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" />
+<img align="right" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-web-tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-web-tech" /> </p>
