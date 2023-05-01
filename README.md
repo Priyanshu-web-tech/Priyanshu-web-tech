@@ -30,7 +30,7 @@
   
  <a href="https://twitter.com/priyans72532451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyans72532451" height="30" width="40" /></a>
   
-<a href="https://priyanshu-sharma-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=7819&format=png" alt="PORTFOLIO" height="30" width="40" /></a>
+<a href="https://priyanshu-sharma-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/null/user.png" alt="PORTFOLIO" height="30" width="40" /></a>
   
 <a href="https://linkedin.com/in/priyanshu-sharma-025737216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-sharma-025737216/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100069703429860&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069703429860&mibextid=zbwkwl" height="30" width="40" /></a>
