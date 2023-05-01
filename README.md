@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://priyanshu-sharma-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/null/user.png" alt="PORTFOLIO" height="40" width="40" /></a>
+<!--   <a href="https://priyanshu-sharma-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/null/user.png" alt="PORTFOLIO" height="40" width="40" /></a> -->
   
  <a href="https://twitter.com/priyans72532451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyans72532451" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/priyanshu-sharma-025737216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-sharma-025737216/" height="30" width="40" /></a>
