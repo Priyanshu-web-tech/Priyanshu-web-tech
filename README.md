@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Developer</h3>
 
 
-<img align="right" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" />
+<!-- <img align="right" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" /> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-web-tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-web-tech" /> </p>
@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/priyans72532451" target="blank"><img src="https://img.shields.io/twitter/follow/priyans72532451?logo=twitter&style=for-the-badge" alt="priyans72532451" /></a> </p>
 
-- 🔭 I’m currently working on **DataViz**
+- 🔭 I’m currently working on **a PWA App**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://priyanshu-sharma-portfolio.netlify.app/](https://priyanshu-sharma-portfolio.netlify.app/)
 
-- 💬 Ask me about **react,python...**
+- 💬 Ask me about **React,Python...**
 
 - 📫 How to reach me **priyanshusharma6666@gmail.com**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://priyanshu-sharma-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/null/user.png"  alt="priyanshu-sharma-025737216/" height="40" width="40" /></a>
+<a href="https://priyanshu-sharma-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/null/user.png"  alt="priyanshu-sharma-025737216/" height="45" width="40" /></a>
   <a href="https://linkedin.com/in/priyanshu-sharma-025737216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-sharma-025737216/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100069703429860&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069703429860&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/__priyanshu.sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__priyanshu.sharma/" height="30" width="40" /></a>
