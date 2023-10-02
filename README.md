@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **priyanshusharma6666@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O4ta115lkyK4T-mZ6IXr-KK9Q-ugwkzt/view]((https://drive.google.com/file/d/1O4ta115lkyK4T-mZ6IXr-KK9Q-ugwkzt/view))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1O4ta115lkyK4T-mZ6IXr-KK9Q-ugwkzt/view](https://drive.google.com/file/d/1O4ta115lkyK4T-mZ6IXr-KK9Q-ugwkzt/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
