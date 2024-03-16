@@ -11,6 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-sh)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Priyans72532451) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://priyanshu-sharma-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:priyanshusharma6666@gmail.com)
+
 
 
 # 💻 Tech Stack:
