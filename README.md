@@ -1,3 +1,7 @@
+![counter](https://enq0vb9x6jztmpm.m.pipedream.net)
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on a Clinic Management System<br>👥 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Next.js<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN,Algorithms,C++.......
 
@@ -16,10 +20,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-web-tech&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-web-tech&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Priyanshu-web-tech&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Priyanshu-web-tech&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
