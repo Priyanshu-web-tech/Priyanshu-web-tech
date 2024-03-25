@@ -23,4 +23,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-web-tech&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![An image of @priyanshuwebtech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshuwebtech)](https://holopin.io/@priyanshuwebtech)
 
