@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a Clinic Management System<br>👥 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Next.js<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN,Algorithms,C++.......
+🔭 I’m currently working on a Event Lisiting Web App<br>👥 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Next.js<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN,Algorithms,C++.......
 
 
 ## 🌐 Socials:
